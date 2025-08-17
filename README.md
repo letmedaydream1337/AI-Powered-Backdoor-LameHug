@@ -15,6 +15,7 @@ LameHug is a Python-based script designed for **educational purposes** to simula
 
 ## Introduction
 LameHug simulates a malware system comprising a Python script, a C2 server, and an LLM integration. The project is designed to help researchers and developers understand malware workflows in a safe, controlled setting.
+![image](https://github.com/letmedaydream1337/AI-Powered-Backdoor-LameHug/blob/main/image/Workflow.png)
 
 ## Prerequisites
 To run the LameHug simulation, ensure you have the following:
@@ -56,6 +57,7 @@ To run the LameHug simulation, ensure you have the following:
    python3 Fake-LameHug.py
    ```
    Ensure the C2 server is active and `goal.txt` is configured before execution.
+![image]{https://github.com/letmedaydream1337/AI-Powered-Backdoor-LameHug/blob/main/image/Execute.png}
 
 ## Project Components
 - **LameHug Script (`Fake-LameHug.py`)**: A Python script built with [LangGraph] to simulate malicious tasks, such as connecting to the C2 server and processing goals from `goal.txt`.
