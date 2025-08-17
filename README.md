@@ -54,7 +54,8 @@ To run the LameHug simulation, ensure you have the following:
 5. **Run the Python Script**  
    Start the simulation by running:
    ```bash
-   python Fake-LameHug.py
+   python3 C2-Server.py
+   python3 Fake-LameHug.py
    ```
    Ensure the C2 server is active and `goal.txt` is configured before execution.
 
