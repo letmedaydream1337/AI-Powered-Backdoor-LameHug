@@ -59,7 +59,7 @@ To run the LameHug simulation, ensure you have the following:
    Ensure the C2 server is active and `goal.txt` is configured before execution.
 
 ## Project Components
-- **LameHug Script (`Fake-LameHug.py`)**: A Python script built with [LangGraph](https://langgraph.ai/) to simulate malicious tasks, such as connecting to the C2 server and processing goals from `goal.txt`.
+- **LameHug Script (`Fake-LameHug.py`)**: A Python script built with [LangGraph] to simulate malicious tasks, such as connecting to the C2 server and processing goals from `goal.txt`.
 - **C2 Server**: A Flask-based server handling file uploads and communication.
 - **LLM Integration**: Utilizes the `qwen2.5-coder:32b` model via Ollama for AI-driven functionality.
 
