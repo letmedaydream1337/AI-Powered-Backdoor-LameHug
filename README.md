@@ -15,7 +15,9 @@ LameHug is a Python-based script designed for **educational purposes** to simula
 
 ## Introduction
 LameHug simulates a malware system comprising a Python script, a C2 server, and an LLM integration. The project is designed to help researchers and developers understand malware workflows in a safe, controlled setting.
-["From Scripts to Prompts: The Next Wave of AI in Cyber Ops"](https://medium.com/@letmedaydream.sparrow/from-scripts-to-prompts-the-next-wave-of-ai-in-cyber-ops-5d745faec032#a0b3).
+
+Introduction Blog
+["From Scripts to Prompts: The Next Wave of AI in Cyber Ops"](https://medium.com/@letmedaydream.sparrow/from-scripts-to-prompts-the-next-wave-of-ai-in-cyber-ops-5d745faec032).
 
 ![image](https://github.com/letmedaydream1337/AI-Powered-Backdoor-LameHug/blob/main/image/Workflow.png)
 
