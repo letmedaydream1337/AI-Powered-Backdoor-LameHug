@@ -1,0 +1,2 @@
+1. collect system information
+2. collect username
